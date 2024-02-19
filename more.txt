@@ -1,0 +1,30 @@
+SCREEN n.1 (HOME)
+Header con logo in alto a SX e MENU in alto a DX
+Video di sfondo linkato da YouTube con overlay nero al 50%
+
+SCREEN n.2 (HOME)
+Sezione con foto relative a newyork, due righe da 3 colonne, la seconda riga è nascosta su mobile come da richiesta esercizio.
+
+SCREEN n.3 (HOME)
+Vedi sopra, ma è il dettaglio della riga che su mobile non è presente
+
+SCREEN n.4 (HOME)
+Schermata con i principali servizi in colonna con immagine e descrizio, come da richiesta esercizio; seguito da altri servizi e bottone "PRENOTA" che rimanda alla pagina Prenotazioni.
+
+SCREEN n.5 (HOME)
+Schermata testimonianze come da richiesta esercizio.
+
+SCREEN n.6 (HOME)
+Sezione contatti, con maps di google integrata, contatti, mail cell e form.
+
+SCREEN n.7 (HOME)
+Footer con indirizzo e link ai social network
+
+SCREEN n.8 (PRENOTAZIONI)
+Come Screen.2 ma su altra pagina.
+
+SCREEN n.9-10-11 (PRENOTAZIONI)
+Sezione dei servizi offerti, con link scopri ri piu ad una possibile ed eventuale brochure integrativa,
+
+SCREEN n.12 (PRENOTAZIONI)
+Parte finale con link ad una possibile ed eventuale sezione di pagamento e finalizzazione acquisto + FOOTER.
